@@ -1,0 +1,13 @@
+ {
+    "app": {
+        "version": "0.1",
+        "adminPassword": "pass"
+    },
+    "server": {
+        "port": 8070
+    },
+    "captcha": {
+        "enabled": true,
+        "url": "http://localhost:8090"
+    }
+}
