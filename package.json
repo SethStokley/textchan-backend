@@ -9,7 +9,7 @@
   "author": "Trigex",
   "license": "MIT",
   "dependencies": {
-    "knex": "^0.16.3",
+    "knex": "^2.4.0",
     "node-fetch": "^2.3.0",
     "pg": "^7.9.0",
     "pino": "^5.11.3",
